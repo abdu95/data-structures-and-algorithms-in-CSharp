@@ -21,6 +21,7 @@ namespace FirstChapter
             names.Clear();
             Console.WriteLine("Number of names in the collection: " + names.Count());
             Console.ReadLine();
+            //add comment
         }
     }
 }
