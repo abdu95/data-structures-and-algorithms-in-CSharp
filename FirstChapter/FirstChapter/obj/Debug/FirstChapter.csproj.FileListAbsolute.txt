@@ -1,0 +1,7 @@
+D:\data st n algo in c#\FirstChapter\FirstChapter\bin\Debug\FirstChapter.exe.config
+D:\data st n algo in c#\FirstChapter\FirstChapter\bin\Debug\FirstChapter.exe
+D:\data st n algo in c#\FirstChapter\FirstChapter\bin\Debug\FirstChapter.pdb
+D:\data st n algo in c#\FirstChapter\FirstChapter\obj\Debug\FirstChapter.csprojAssemblyReference.cache
+D:\data st n algo in c#\FirstChapter\FirstChapter\obj\Debug\FirstChapter.csproj.CoreCompileInputs.cache
+D:\data st n algo in c#\FirstChapter\FirstChapter\obj\Debug\FirstChapter.exe
+D:\data st n algo in c#\FirstChapter\FirstChapter\obj\Debug\FirstChapter.pdb

@@ -1,0 +1,13 @@
+D:\data st n algo in c#\VScode-attempt\myApp\bin\Debug\netcoreapp3.1\myApp.exe
+D:\data st n algo in c#\VScode-attempt\myApp\bin\Debug\netcoreapp3.1\myApp.deps.json
+D:\data st n algo in c#\VScode-attempt\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.json
+D:\data st n algo in c#\VScode-attempt\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.dev.json
+D:\data st n algo in c#\VScode-attempt\myApp\bin\Debug\netcoreapp3.1\myApp.dll
+D:\data st n algo in c#\VScode-attempt\myApp\bin\Debug\netcoreapp3.1\myApp.pdb
+D:\data st n algo in c#\VScode-attempt\myApp\obj\Debug\netcoreapp3.1\myApp.csprojAssemblyReference.cache
+D:\data st n algo in c#\VScode-attempt\myApp\obj\Debug\netcoreapp3.1\myApp.csproj.CoreCompileInputs.cache
+D:\data st n algo in c#\VScode-attempt\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfoInputs.cache
+D:\data st n algo in c#\VScode-attempt\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfo.cs
+D:\data st n algo in c#\VScode-attempt\myApp\obj\Debug\netcoreapp3.1\myApp.dll
+D:\data st n algo in c#\VScode-attempt\myApp\obj\Debug\netcoreapp3.1\myApp.pdb
+D:\data st n algo in c#\VScode-attempt\myApp\obj\Debug\netcoreapp3.1\myApp.genruntimeconfig.cache
